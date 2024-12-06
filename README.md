@@ -11,7 +11,7 @@ I am a software engineer, with 7 years of experience. I am expanding my knowledg
 - 👯 I really want to collaborate on open source projects.
 - ✔ Ask me about anything, I'll be happy to help you<br>
 - Outside of technology, I love🎮 playing video games, 🎵 listening to music and 📖 reading science books.
-- 📫 Contact me at: <a href="jesusg.code@gmail.com">jesus.gcode@gmail.com</a>
+- 📫 Contact me at: <a href="jesusg.code@gmail.com">jesusg.code@gmail.com</a>
 
 ## My Skills Include
 
