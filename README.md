@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi , I'm Ciberfloyd1 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src=https://giphy.com/gifs/leagueoflegends-arcane-arcanewatchparty-league-of-legends-IfeBLe1xqGHNZU6LOL />
+<img align="right" width=300px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1sdzQ1OGRqNDg3Y3MwanNjY2YyOTJyNmNremR6aGoydDlkb212YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IfeBLe1xqGHNZU6LOL/giphy.webp"/>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhyc3FsbzN4NHdudHlyaXBpd3prd3liZ3R3MWo3d2hlemxrenJ6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EvScDAm1kTPgmUUxtQ/giphy.webp" width="30px">&nbsp;***About me***
 
 I am a software engineer, with 7 years of experience. I am expanding my knowledge in Cybersecurity working as a freelance software developer. I love learning and building something new, productive, innovative and creative.
 - 🌱 I currently use:
