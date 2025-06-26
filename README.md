@@ -4,11 +4,12 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhyc3FsbzN4NHdudHlyaXBpd3prd3liZ3R3MWo3d2hlemxrenJ6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EvScDAm1kTPgmUUxtQ/giphy.webp" width="30px">&nbsp;***About me***
 
-I am a software engineer, with 7 years of experience. I am expanding my knowledge in Cybersecurity working as a freelance software developer. I love learning and building something new, productive, innovative and creative.
+I am a software engineer specialized in web development and design and desktop application development. as a freelance software developer. I love learning and building something new, productive, innovative and creative.
 - 🌱 I currently use:
   -Python
   -PHP
-- 👯 I really want to collaborate on open source projects.
+  -React
+  -Electron
 - ✔ Ask me about anything, I'll be happy to help you<br>
 - Outside of technology, I love🎮 playing video games, 🎵 listening to music and 📖 reading science books.
 - 📫 Contact me at: <a href="jesusg.code@gmail.com">jesusg.code@gmail.com</a>
