@@ -12,7 +12,7 @@ I am a software engineer specialized in web development and design and desktop a
   -Electron
 - ✔ Ask me about anything, I'll be happy to help you<br>
 - Outside of technology, I love🎮 playing video games, 🎵 listening to music and 📖 reading science books.
-- 📫 Contact me at: <a href="Phainonmind@gmail.com">jesusg.code@gmail.com</a>
+- 📫 Contact me at: <a href="Phainonmind@gmail.com">Phainonmind@gmail.com</a>
 
 ## My Skills Include
 
