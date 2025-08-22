@@ -12,7 +12,7 @@ I am a software engineer specialized in web development and design and desktop a
   -Electron
 - ✔ Ask me about anything, I'll be happy to help you<br>
 - Outside of technology, I love🎮 playing video games, 🎵 listening to music and 📖 reading science books.
-- 📫 Contact me at: <a href="jesusg.code@gmail.com">jesusg.code@gmail.com</a>
+- 📫 Contact me at: <a href="Phainonmind@gmail.com">jesusg.code@gmail.com</a>
 
 ## My Skills Include
 
@@ -47,7 +47,7 @@ I am a software engineer specialized in web development and design and desktop a
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/Ceos8.0/?hl=es">
+<a href= "https://www.instagram.com/Phainonmind/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
