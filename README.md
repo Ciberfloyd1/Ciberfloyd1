@@ -47,9 +47,9 @@ I am a software engineer specialized in web development and design and desktop a
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/Phainonmind/?hl=es">
+<!--<a href= "https://www.instagram.com/Phainonmind/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
+</a>-->
 
 <h2>Github stats:</h2> 
 
